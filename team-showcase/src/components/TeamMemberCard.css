@@ -1,0 +1,10 @@
+.team-member-card{
+    width: 100px;
+    height: 100px;
+    background-color: #0f0f0f;
+    border: 1px solid #ccc;
+    align-items: center;
+}
+.Name{
+    color:white,
+}
